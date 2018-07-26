@@ -1,1 +1,3 @@
 first git file
+
+trying some git commands
